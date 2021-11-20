@@ -3,4 +3,4 @@
 
 import { Rush } from './api/Rush';
 
-Rush.launch(Rush.version, { isManaged: false });
+Rush.launch(Rush.version, { isManaged: false, alreadyReportedNodeTooNewError: false });
