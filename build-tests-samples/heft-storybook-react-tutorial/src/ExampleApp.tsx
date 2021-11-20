@@ -10,7 +10,7 @@ export class ExampleApp extends React.Component {
       backgroundColor: '#ffffff',
       padding: '20px',
       borderRadius: '5px',
-      width: '400px'
+      width: '500px'
     };
 
     return (
