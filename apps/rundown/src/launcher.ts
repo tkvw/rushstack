@@ -26,7 +26,7 @@ class Launcher {
     // ["path/to/node.exe", "path/to/launcher.js", "path/to/target-script.js", "first-target-arg"]
     [nodeArg, , this.targetScriptPathArg, ...remainderArgs] = argv;
 
-    // Example process.argv:
+    // Example process.argvss:
     // ["path/to/node.exe", "path/to/target-script.js", "first-target-arg"]
     return [nodeArg, this.targetScriptPathArg, ...remainderArgs];
   }
