@@ -2,6 +2,18 @@
   "name": "@rushstack/rundown",
   "entries": [
     {
+      "version": "1.0.159",
+      "tag": "@rushstack/rundown_v1.0.159",
+      "date": "Thu, 16 Dec 2021 23:17:14 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "cc"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.158",
       "tag": "@rushstack/rundown_v1.0.158",
       "date": "Sat, 06 Nov 2021 00:09:13 GMT",
